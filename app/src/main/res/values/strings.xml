@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HabitTracker</string>
+    <string name="welcome">WELCOME TO Monumental habits</string>
+
+<!-- onboard screen -->
+    <string name="onboard_1">WELCOME TO Monumental habits</string>
+    <string name="onboard_2">CREATE NEW HABIT EASILY</string>
+    <string name="onboard_3">KEEP TRACK OF YOUR PROGRESS</string>
+    <string name="onboard_4">JOIN A SUPPORTIVECOMMUNITY</string>
+    <string name="onboard_detail">We can help you to be a better version of yourself.</string>
+</resources>
